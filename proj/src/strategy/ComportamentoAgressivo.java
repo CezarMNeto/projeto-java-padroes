@@ -1,4 +1,4 @@
-package one.digitalinnovation.gof.strategy;
+package proj.src.strategy;
 
 public class ComportamentoAgressivo implements Comportamento {
 
